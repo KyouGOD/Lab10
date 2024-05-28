@@ -1,4 +1,5 @@
 Лабораторная работа #10 Бадрызлов Сергей ПИН-222  
+Данные до изменения  
 ![image](https://github.com/KyouGOD/Lab10/assets/106447328/f364627b-d75f-44f7-9fd1-585f234e63fb)  
 ![image](https://github.com/KyouGOD/Lab10/assets/106447328/2c5832e2-4e83-4ac8-a35d-8438645ede05)  
 ![image](https://github.com/KyouGOD/Lab10/assets/106447328/e2c91ff8-012d-4fc2-bb45-be0a789c96d7)  
